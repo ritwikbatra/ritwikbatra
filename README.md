@@ -1,6 +1,6 @@
 <h1><center>RITWIK BATRA</h1>
  
-[![LinkedIn](extras/logo.gif)](https://devincept.tech/)
+[![LinkedIn](file:///C:/Users/Ritwik/Desktop/Sicons-Basic-Round-Social-Linkedin.ico)](https://www.linkedin.com/in/ritwick-batra-6941bb146/)
 
 - 🔭 I’m currently working on a Data Science Capstone Project
 - 🌱 I’m currently learning the **Mathematics** behind some famous ***Machine Learning Algorithms***.
