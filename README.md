@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1><center>RITWIK BATRA</h1>
+ 
+[![LinkedIn](extras/logo.gif)](https://devincept.tech/)
 
-<!--
-**ritwikbatra/ritwikbatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a Data Science Capstone Project
+- 🌱 I’m currently learning the **Mathematics** behind some famous ***Machine Learning Algorithms***.
+- 👯 I’m looking to collaborate on anything related to **Machine Learning** or **Data Science**
+- 🤔 I’m looking for help with *Neural Networks*. I'm not good at it :sweat_smile:
+- 💬 Ask me about statistics or calculus. Mathematics is :heart:
+- 📫 How to reach me: You can drop a mail at [rbatra1999@gmail.com](mailto:rbatra1999@gmail.com).
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: I know how to play a guitar. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
